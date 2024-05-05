@@ -2,12 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
-  *main - entry point of program
-  *
-  *Return : return 0
-  *
-  *
-  */
+ *main - print a random number
+ *Return: Always (Success)
+ *
+ */
+
 int main(void)
 {
 	int n;
